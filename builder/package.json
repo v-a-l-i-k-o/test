@@ -1,0 +1,34 @@
+{
+  "name": "Project",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valiko",
+  "devDependencies": {
+    "gulp-autoprefixer": "latest",
+    "gulp-load-plugins": "latest",
+    "imagemin-jpegtran": "latest",
+    "imagemin-gifsicle": "latest",
+    "imagemin-optipng": "latest",
+    "stream-combiner2": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-imagemin": "latest",
+    "imagemin-svgo": "latest",
+    "gulp-changed": "latest",
+    "browser-sync": "latest",
+    "gulp-cssnano": "latest",
+    "vinyl-buffer": "latest",
+    "gulp-include": "latest",
+    "gulp-notify": "latest",
+    "gulp-rename": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "4.2.5",
+    "gulp-sass": "latest",
+    "gulp-zip": "latest",
+    "gulp-if": "latest",
+    "gulp": "latest",
+    "del": "latest"
+  }
+}
